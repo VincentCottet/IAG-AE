@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Chatbot DyDu - Test</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Script DyDu -->
+  <script src="https://cdn.doyoudreamup.com/dydubox/configurations/preprod/549bfe4c-b70d-4db8-a8f2-8603a7e11a20/0af401f1-9832-10e6-8198/loader.js
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      padding: 40px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    p {
+      font-size: 18px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue sur la page de test du chatbot DyDu</h1>
+  <p>Le chatbot devrait apparaître automatiquement en bas à droite de cette page.</p>
+</body>
+</html>
